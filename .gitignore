@@ -1,0 +1,78 @@
+# ============================================
+# ENTORNO VIRTUAL Y PYTHON
+# ============================================
+venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ============================================
+# IDEs Y EDITORES
+# ============================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# ============================================
+# ARCHIVOS SENSIBLES Y CREDENCIALES
+# ============================================
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+*.p12
+credentials.json
+service-account*.json
+config_secrets.json
+
+# ============================================
+# RESULTADOS Y ARCHIVOS PESADOS
+# ============================================
+garak_runs/
+*.html
+*.csv
+*.json
+!package.json
+!requirements.txt
+
+# ============================================
+# LOGS Y TEMPORALES
+# ============================================
+*.log
+*.tmp
+*.temp
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ============================================
+# BASES DE DATOS LOCALES
+# ============================================
+*.db
+*.sqlite
+*.sqlite3
+
+# ============================================
+# JUPYTER NOTEBOOKS
+# ============================================
+.ipynb_checkpoints/
+
+# ============================================
+# ARCHIVOS DE SISTEMA
+# ============================================
+.DS_Store
+Thumbs.db
+Desktop.ini
