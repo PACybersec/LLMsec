@@ -15,7 +15,7 @@ Demostrar la aplicación de herramientas de seguridad ofensiva (**Garak**, desar
 - **Garak**: Framework open-source de evaluación de vulnerabilidades en LLMs
 - **Python 3.x** con entorno virtual aislado
 - **Hugging Face**: Modelo local `facebook/opt-125m` (sin costos de API)
-- **CachyOS (Arch Linux)**: Entorno de desarrollo
+- **Arch Linux**: Entorno de desarrollo
 
 ## 📊 Metodología
 
